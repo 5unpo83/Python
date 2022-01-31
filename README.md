@@ -1,2 +1,5 @@
 # Python
-python プログラミングで気付いた小ネタや、知っておくと役立つかもしれない事柄メモ。
+Python
+Tkintr
+PySimpleSGI
+Kotlin
